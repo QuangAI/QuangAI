@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">A passionate AI engineer student</h3>
-<image aligh = "right" alt ="codeing" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> 
+<image align = "right" alt ="coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> 
 - 📫 How to reach me **minhquangai28@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
